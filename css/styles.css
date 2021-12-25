@@ -73,7 +73,7 @@ h1, h2, h3, p, ul {
 /* ---- HEADER -------------------------------------------- */
 
 .header {
-   padding: 24px;
+   padding: 24px 0;
    border-bottom: 1px solid #ECECEC;
 }
 
@@ -153,9 +153,7 @@ h1, h2, h3, p, ul {
 .hero {
    background-color: var(--dark-bg-color);
    text-align: center;
-   height: 600px;
-   display: flex;
-   align-items: center;
+   padding: 200px 0;
 }
 
 
